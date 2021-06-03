@@ -7,7 +7,7 @@ namespace weather1API
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
