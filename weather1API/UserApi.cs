@@ -11,7 +11,7 @@ namespace weather1API
     /// </summary>
     class UserApi
     {
-        private string UserAPI { get; set; }
+        public string UserApiProperty { get; set; }
         
     }
 }
